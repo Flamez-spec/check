@@ -1,4 +1,3 @@
-
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Axal-Dev/dex/refs/heads/main/dex.lua"))()
 --[[ 
 
